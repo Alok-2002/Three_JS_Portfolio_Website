@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions, suggestions, or just want to say hi, feel free to reach out to me:
 
 - Email: [sharmaalok02gwl@gmail.com](mailto:sharmaalok02gwl@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alok-sharma2002-)
-- Twitter: [@your-twitter-handle](https://twitter.com/atul_sharma_20)
+- LinkedIn: [Alok-Sharma](https://www.linkedin.com/in/alok-sharma2002-)
+- Twitter: [Alok-Sharma](https://twitter.com/atul_sharma_20)
 
 Thank you for visiting my repository and checking out my portfolio website! I hope you enjoy exploring it as much as I enjoyed building it.
