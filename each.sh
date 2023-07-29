@@ -14,6 +14,6 @@ for file in *; do
     git commit -m "Add $file $(date)"
 
     # Push the commit to the remote repository
-    git push origin master
+    git push origin main
   fi
 done
